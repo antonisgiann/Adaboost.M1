@@ -1,4 +1,3 @@
-#Antonis Giannoulopoulos AEM:2844
 import pandas as pd
 import numpy as np
 
